@@ -1,25 +1,22 @@
-# Android-Helper [![](https://jitpack.io/v/Andrew-Quebe/Android-Helper.svg)](https://jitpack.io/#Andrew-Quebe/Android-Helper)
+# Android-Helper [ ![Download](https://api.bintray.com/packages/apl-devs/maven/Android-Helper/images/download.svg) ](https://bintray.com/apl-devs/maven/Android-Helper/_latestVersion)
 A small, simple library providing developers with some utility methods to use in their code.
 
 # Compile in your Project
-Add this in your root build.gradle file (not your module build.gradle file):
+To add to your project, put the following code inside your app module gradle file.
 
 ```
-allprojects {
-	repositories {
-		...
-		maven { url "https://jitpack.io" }
-	}
+repositories {
+    maven {
+        url  "https://dl.bintray.com/apl-devs/maven"
+    }
 }
-```
 
-Next, add the dependency in your module:
-
-```
 dependencies {
-	   compile 'com.github.Andrew-Quebe:Android-Helper:v0.3.1'
+    ...
+    compile 'com.github.apl-devs:Android-Helper:0.5'
+    ...
 }
-````
+```
 
 # Features
 Android-Helper currently has a small amount of functions, but that will change as future releases become available. Below are some things you can do with it already.
