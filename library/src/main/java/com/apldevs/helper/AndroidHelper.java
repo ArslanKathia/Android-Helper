@@ -1,4 +1,4 @@
-package com.amqtech.androidhelper;
+package com.apldevs.helper;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

@@ -1,11 +1,12 @@
-package com.amqtech.androidhelperdemo;
+package com.apldevs.sample;
 
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.content.res.ResourcesCompat;
 import android.support.v7.app.AppCompatActivity;
 
-import com.amqtech.androidhelper.AndroidHelper;
+import com.amqtech.androidhelperdemo.R;
+import com.apldevs.helper.AndroidHelper;
 
 public class MainActivity extends AppCompatActivity {
 
