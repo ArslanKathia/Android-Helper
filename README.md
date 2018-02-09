@@ -1,6 +1,7 @@
 # Android-Helper 
 [![Download](https://api.bintray.com/packages/apl-devs/maven/Android-Helper/images/download.svg) ](https://bintray.com/apl-devs/maven/Android-Helper/_latestVersion)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/28a47f236ae742389cad14ebdbb6edd6)](https://www.codacy.com/app/Andrew-Quebe/Android-Helper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=apl-devs/Android-Helper&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/apl-devs/Android-Helper.svg?branch=master)](https://travis-ci.org/apl-devs/Android-Helper)
 
 A small, simple library providing developers with some utility methods to use in their code.
 
